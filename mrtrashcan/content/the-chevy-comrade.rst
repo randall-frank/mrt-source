@@ -1,21 +1,16 @@
 The Chevy Comrade
 #################
 :date: 2011-12-29 01:00
-:author: rjfrank
-:category: New Product Announcements, Newsflash
+:author: frogboots
+:category: Politics
 :slug: the-chevy-comrade
 :status: published
-:attachments: wp-content\uploads\2011\12\chevycomrade2.png
 
 | Dateline: Detroit
 | General Motors today held a press conference to unveil the first new car since its merger with the Government of the United States and Mr Trashcan had a front seat with other distinguished members of the press. GM spokesperson Ivan Gregory opened the proceedings, “Today we are announcing a new age in American automobile, the Chevy Comrade™, THE vehicle of choice for the American patriot citizen.”
 
-.. figure:: http://test1.mrtrashcan.com/wp-content/uploads/2011/12/chevycomrade2.png
-   :figclass: wp-image-26
-
-| 
-| 
-| 
+.. figure:: {static}/images/chevycomrade2.png
+   :width: 600px
 
 | 
 | “Our engineers and PR staff spent literally hours coming up with this new, all encompassing design”, boasted Gregory. The announcement follows directly on the heels of the President’s, now legendary, YouTube address challenging the nation to commit itself to the goal, that “before this decade is out, there be three cars in every garage, HDTV in every household and free choice of long distance carrier”.  Gregory continued, “In the spirit of that challenge and under the Domestic Automobile Manufacturer Nationalization (DAMN) provision in section 299.792.458 of the TARP VI legislation, GM makes an unprecedented offer to United States citizens. Every citizen over the age of 18 is required to purchase a GM automobile every 36 months. ‘Buyers’ should have no concerns about credit or financing as that has been streamlined directly thought the IRS for your convince.  You need only show up at your local dealer on your prescribed date to drive off with your brand new car!”

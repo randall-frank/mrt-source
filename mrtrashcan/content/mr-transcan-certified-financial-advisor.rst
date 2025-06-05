@@ -1,8 +1,8 @@
 Mr. Trashcan: Certified Financial Advisor
 #########################################
 :date: 2011-12-29 01:08
-:author: rjfrank
-:category: Politics, Rants
+:author: htu
+:category: Rants
 :slug: mr-transcan-certified-financial-advisor
 :status: published
 

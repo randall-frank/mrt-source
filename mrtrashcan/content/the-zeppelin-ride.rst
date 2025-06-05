@@ -1,8 +1,8 @@
 Lighter than Air
 ################
 :date: 2011-12-29 01:17
-:author: rjfrank
-:category: Newsflash, Rants
+:author: htu
+:category: Rants
 :slug: the-zeppelin-ride
 :status: published
 

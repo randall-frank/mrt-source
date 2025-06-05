@@ -1,7 +1,7 @@
 Cambodian Wellness Center
 #########################
 :date: 2011-12-28 22:38
-:author: rjfrank
+:author: htu
 :category: Short Stories
 :slug: cambodian-wellness-center
 :status: published

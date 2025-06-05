@@ -1,8 +1,8 @@
 Healthcare: A View From the Can...
 ##################################
 :date: 2011-12-29 01:15
-:author: rjfrank
-:category: Politics, Rants
+:author: htu
+:category: Politics
 :slug: healthcare-a-view-from-the-can
 :status: published
 

@@ -1,8 +1,8 @@
 MTC™ Management Seminars
 ########################
 :date: 2011-12-29 01:20
-:author: rjfrank
-:category: MTC Labs, New Product Announcements
+:author: htu
+:category: Newsflash
 :slug: mtc-management-seminars
 :status: published
 

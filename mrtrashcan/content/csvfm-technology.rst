@@ -1,8 +1,8 @@
 CS/VFM Technology
 #################
 :date: 2011-12-29 01:11
-:author: rjfrank
-:category: MTC Labs, Newsflash, Science
+:author: htu
+:category: Science
 :slug: csvfm-technology
 :status: published
 

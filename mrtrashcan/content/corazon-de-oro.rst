@@ -1,11 +1,11 @@
 Corazon De Oro
 ##############
 :date: 2020-12-13 16:02
-:author: rjfrank
+:author: frogboots
 :category: Ink
 :slug: corazon-de-oro
 :status: published
-:attachments: wp-content\uploads\2020\12\back_head_small.jpg, wp-content\uploads\2020\12\back_thumb.jpg
+
 
 | Does anybody out there got a soul?
 | Cause I'm just looking for the girl
@@ -33,8 +33,8 @@ Corazon De Oro, Rancid
 
    </ul>
 
-.. figure:: http://test1.mrtrashcan.com/wp-content/uploads/2020/12/back_thumb.jpg
-   :figclass: wp-image-184
+.. figure:: {static}/images/back_thumb.jpg
+   :width: 500px
 
 | 
 | 
@@ -44,5 +44,5 @@ Corazon De Oro, Rancid
 
    |image1|
 
-.. |image1| image:: http://test1.mrtrashcan.com/wp-content/uploads/2020/12/back_head_small-558x1024.jpg
+.. |image1| image:: {static}/images/back_head_small.jpg
    :class: wp-image-182

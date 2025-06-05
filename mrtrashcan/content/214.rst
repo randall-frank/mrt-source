@@ -1,8 +1,0 @@
-No title [214]
-##############
-:date: 2025-03-26 17:23
-:author: rjfrank
-:slug: 214
-:status: published
-
-

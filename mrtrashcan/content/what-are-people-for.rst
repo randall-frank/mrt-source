@@ -1,8 +1,8 @@
 What are people for?
 ####################
 :date: 2012-01-02 20:21
-:author: rjfrank
-:category: Rants, Science
+:author: htu
+:category: Rants
 :slug: what-are-people-for
 :status: published
 

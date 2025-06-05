@@ -1,7 +1,7 @@
 Heresy, a T.I.M.E Stories scenario released
 ###########################################
 :date: 2020-12-13 15:47
-:author: rjfrank
+:author: frogboots
 :category: Newsflash
 :slug: heresy-a-t-i-m-e-stories-scenario-released
 :status: published

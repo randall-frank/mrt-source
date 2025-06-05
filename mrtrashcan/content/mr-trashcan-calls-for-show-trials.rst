@@ -1,7 +1,7 @@
 Mr Trashcan Calls for Show Trials...
 ####################################
 :date: 2012-01-20 16:00
-:author: rjfrank
+:author: htu
 :category: Rants
 :slug: mr-trashcan-calls-for-show-trials
 :status: published

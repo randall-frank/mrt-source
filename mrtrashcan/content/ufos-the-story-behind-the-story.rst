@@ -1,8 +1,8 @@
 UFOs
 ####
 :date: 2011-12-29 01:13
-:author: rjfrank
-:category: Rants, Science
+:author: htu
+:category: Science
 :slug: ufos-the-story-behind-the-story
 :status: published
 

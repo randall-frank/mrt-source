@@ -1,11 +1,11 @@
 Yucca Mountain: a MTC Exclusive Report
 ######################################
 :date: 2015-11-06 00:41
-:author: rjfrank
-:category: Rants, Science
+:author: frogboots
+:category: Science
 :slug: yucca-mountain-a-mtc-exclusive-report
 :status: published
-:attachments: wp-content\uploads\2015\11\yucca_proposed_design.jpg, wp-content\uploads\2015\11\burrito.jpg, wp-content\uploads\2015\11\adultswimmotel_1600x1200.jpg
+
 
 | Mr. Trashcan has never been one to shy away from controversial topics and is not about to start today. After researching the controversy surrounding the so-called "Yucca Mountain Repository", Mr. Trashcan felt it was time for a deep-dive into the problem. As always, Mr. Trashcan seeks out truth with the help of foremost experts in any matter and this is no exception.
 | |Yucca Mountain Repository|
@@ -75,18 +75,15 @@ Artist's Rendering: Woodlawn Motor Hotel, Marion, North Carolina, USA
 
 #. Yes, yes Mr. Trashcan is well aware that Rod Piper has technically passed and Rod Brind'Amour is still "with us", but really, can "Rowdy" Roddy Piper ever truly pass on?  Isn't there just a little mock-Scottish living in all of us because of him? And of course it matters not to Mr. Trashcan if folks are physically dead if they are already dead inside...  Nuff said, MTC.
 
-.. |Yucca Mountain Repository| image:: http://localhost/mrtrashcan/wp-content/uploads/2015/11/yucca_proposed_design.jpg
+.. |Yucca Mountain Repository| image:: {static}/images/yucca_proposed_design.jpg
    :class: alignnone size-full wp-image-136
    :width: 584px
    :height: 241px
-   :target: http://localhost/mrtrashcan/wp-content/uploads/2015/11/yucca_proposed_design.jpg
-.. |Woodlawn Motel| image:: http://localhost/mrtrashcan/wp-content/uploads/2015/11/adultswimmotel_1600x1200.jpg
+.. |Woodlawn Motel| image:: {static}/images/adultswimmotel_1600x1200.jpg
    :class: alignnone size-full wp-image-135
    :width: 584px
    :height: 438px
-   :target: http://localhost/mrtrashcan/wp-content/uploads/2015/11/adultswimmotel_1600x1200.jpg
-.. |El Burrito| image:: http://localhost/mrtrashcan/wp-content/uploads/2015/11/burrito.jpg
+.. |El Burrito| image:: {static}/images/burrito.jpg
    :class: alignnone size-full wp-image-137
    :width: 584px
    :height: 389px
-   :target: http://localhost/mrtrashcan/wp-content/uploads/2015/11/burrito.jpg
