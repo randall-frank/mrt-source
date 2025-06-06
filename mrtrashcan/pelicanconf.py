@@ -4,6 +4,9 @@ AUTHOR = 'frogboots'
 SITENAME = 'Mr Trashcan'
 SITEURL = ""
 PATH = "content"
+DELETE_OUTPUT_DIRECTORY = True
+SUMMARY_MAX_PARAGRAPHS = 1
+DEFAULT_PAGINATION = 5
 
 TIMEZONE = 'America/New_York'
 

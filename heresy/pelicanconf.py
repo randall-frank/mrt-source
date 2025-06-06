@@ -4,6 +4,7 @@ AUTHOR = 'frogboots'
 SITENAME = 'Heresy<br>A T.I.M.E Stories Journey...'
 SITEURL = ""
 PATH = "content"
+DELETE_OUTPUT_DIRECTORY = True
 
 TIMEZONE = 'America/New_York'
 
@@ -18,7 +19,7 @@ MENUITEMS = [('Heresy: 1499NT', '/'),
              ('Questions','/pages/questions-and-help.html'),
              ('About','/pages/about.html')]
 
-NEST_CSS_MINIFY = True
+NEST_CSS_MINIFY = False
 
 # Add header background image from content/images : 'background.jpg'
 NEST_HEADER_IMAGES = 'cropped-box_path1-2.jpg'

@@ -52,7 +52,6 @@ def build() -> None:
 
     :return:
     """
-    clean()
     orig_cwd = os.getcwd()
     for target in ["heresy", "mrtrashcan"]:
         try:
