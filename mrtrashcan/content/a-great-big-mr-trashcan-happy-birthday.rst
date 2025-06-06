@@ -10,5 +10,6 @@ All of the Americas (and most of the rest of the world), please join Mr Trashcan
 
 .. figure:: {static}/images/edog.jpg
    :width: 192px
+   :alt: Birthday boy
 
 ¡Feliz cumpleaños Señor fantástico!

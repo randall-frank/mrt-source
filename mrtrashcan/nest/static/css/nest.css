@@ -204,9 +204,9 @@ h4:after {
     background-color: rgba(0,0,0,0.2);
 }
 .header-logo {
-    font-size:15px;
+    font-size:40px;
     font-weight:600;
-    text-transform: uppercase;
+    /* text-transform: uppercase; */
 }
 .header-logo a {
     color: #fff;
@@ -402,11 +402,12 @@ blockquote{
 
 /* Spaces */
 .mr5 { margin-right: 5px;}
-.mr20 { margin-right: 20px;}
+.mr20 { margin-right: 20px; margin-top: 20px;}
 
 /* Gradients */
 .gradient {
-    background-color: #356689;
+    /* background-color: #356689; */
+    background-color: #333;
 }
 
 /* Footer */

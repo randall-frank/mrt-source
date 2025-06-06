@@ -7,7 +7,7 @@ PATH = "content"
 
 TIMEZONE = 'America/New_York'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 THEME = 'nest'
 SITESUBTITLE = u'Heresy'

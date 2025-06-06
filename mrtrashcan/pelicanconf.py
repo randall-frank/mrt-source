@@ -7,13 +7,12 @@ PATH = "content"
 
 TIMEZONE = 'America/New_York'
 
-DEFAULT_LANG = 'English'
+DEFAULT_LANG = 'en'
 
 THEME = 'nest'
 SITESUBTITLE = u'Where the truth goes on vacation...'
 
-
-NEST_CSS_MINIFY = True
+NEST_CSS_MINIFY = False
 
 # Add items to top menu before pages
 MENUITEMS = [('Home', '/'),
@@ -21,12 +20,13 @@ MENUITEMS = [('Home', '/'),
              ('Authors','/authors.html'),
              ('About','/pages/about.html')]
 # Add header background image from content/images : 'background.jpg'
-NEST_HEADER_IMAGES = ''  # 'mtc_logo_1000x288.png'
+NEST_HEADER_IMAGES = '' # 'header.png'
 NEST_HEADER_LOGO = '/images/mtc_trans.png'
 # Footer
 NEST_SITEMAP_COLUMN_TITLE = u'Sitemap'
-NEST_SITEMAP_MENU = [('Archives', '/archives.html'),
-                     ('Tags','/tags.html'), 
+NEST_SITEMAP_MENU = [('Recent', '/'),
+                     ('Archives', '/archives.html'),
+                     ('Categories','/categories.html'),
                      ('Authors','/authors.html')]
 NEST_SITEMAP_ATOM_LINK = u'Atom Feed'
 NEST_SITEMAP_RSS_LINK = u'RSS Feed'
@@ -57,15 +57,15 @@ NEST_AUTHOR_HEAD_DESCRIPTION = u'Posts by'
 NEST_AUTHOR_HEADER_SUBTITLE = u'Posts archives'
 NEST_AUTHOR_CONTENT_TITLE = u'Posts'
 # authors.html
-NEST_AUTHORS_HEAD_TITLE = u'Author list'
-NEST_AUTHORS_HEAD_DESCRIPTION = u'Author list'
-NEST_AUTHORS_HEADER_TITLE = u'Author list'
-NEST_AUTHORS_HEADER_SUBTITLE = u'Archives listed by author'
+NEST_AUTHORS_HEAD_TITLE = u"Who's to blame"
+NEST_AUTHORS_HEAD_DESCRIPTION = u"Who's to blame"
+NEST_AUTHORS_HEADER_TITLE = u"Who's to blame"
+NEST_AUTHORS_HEADER_SUBTITLE = u'Articles listed by author'
 # categories.html
 NEST_CATEGORIES_HEAD_TITLE = u'Categories'
-NEST_CATEGORIES_HEAD_DESCRIPTION = u'Archives listed by category'
+NEST_CATEGORIES_HEAD_DESCRIPTION = u'Articles listed by category'
 NEST_CATEGORIES_HEADER_TITLE = u'Categories'
-NEST_CATEGORIES_HEADER_SUBTITLE = u'Archives listed by category'
+NEST_CATEGORIES_HEADER_SUBTITLE = u'Articles listed by category'
 # category.html
 NEST_CATEGORY_HEAD_TITLE = u'Category Archive'
 NEST_CATEGORY_HEAD_DESCRIPTION = u'Category Archive'
@@ -103,10 +103,10 @@ AUTHOR_FEED_RSS = None
 
 # Blogroll
 LINKS = (
-    ("Pelican", "https://getpelican.com/"),
-    ("Python.org", "https://www.python.org/"),
-    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
-    ("You can modify those links in your config file", "#"),
+#    ("Pelican", "https://getpelican.com/"),
+#    ("Python.org", "https://www.python.org/"),
+#    ("Jinja2", "https://palletsprojects.com/p/jinja/"),
+#    ("You can modify those links in your config file", "#"),
 )
 
 # Social widget
