@@ -109,7 +109,7 @@ AUTHOR_FEED_RSS = None
 LINKS = (
     ("Heresy on Github", "https://github.com/randall-frank/heresy-assets"),
     ("Heresy on Steam", "http://steamcommunity.com/sharedfiles/filedetails/?id=1240227894"),
-    ("Heresy Tools", "https://github.com/randall-frank/heresy-card-builder"),
+    ("Heresy Tools on Github", "https://github.com/randall-frank/heresy-card-builder"),
 )
 
 # Social widget
