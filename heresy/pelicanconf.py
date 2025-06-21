@@ -116,9 +116,10 @@ LINKS = (
 SOCIAL = (
 )
 
-STATIC_PATHS = ["images", "extra/favicon.ico"]
+STATIC_PATHS = ["images", "extra/favicon.ico", "extra/utilities.js"]
 EXTRA_PATH_METADATA = {
-    "extra/favicon.ico": {"path": "favicon.ico"}
+    "extra/favicon.ico": {"path": "favicon.ico"},
+    "extra/utilities.js": {"path": "utilities.js"},
 }
 
 DEFAULT_PAGINATION = False
