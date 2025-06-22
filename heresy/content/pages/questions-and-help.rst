@@ -138,5 +138,5 @@ Unfortunately, we do not have a box template. We have done some box artwork that
 
 I should also note that all of the assets from the game are now available publicly from github (https://github.com/randall-frank/heresy-assets). You might find some useful imagery there.
 
-BTW: if you happen to create such a template and are willing to contribute it to the project, please let us know. The ‘Isses’ section of the github repo is probably the best place for that.
+BTW: if you happen to create such a template and are willing to contribute it to the project, please let us know. The ‘issues’ section of the github repo is probably the best place for that.
 

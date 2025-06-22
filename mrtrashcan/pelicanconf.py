@@ -1,6 +1,6 @@
 import datetime
 
-AUTHOR = 'frogboots'
+AUTHOR = 'Frogboots'
 SITENAME = 'Mr Trashcan'
 SITEURL = ""
 PATH = "content"
