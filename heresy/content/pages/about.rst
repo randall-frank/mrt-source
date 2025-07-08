@@ -14,7 +14,7 @@ About
 
     </strike>
 
-Hersey is the first chapter in a trilogy for a fan-based expansion of 
+Hersey is the first chapter in a fan-based expansion of 
 T.I.M.E Stories. This first chapter has been made available to the 
 public in December 2017. The second chapter will become available to 
 the public as soon as it is ready (|ss| 2018\ |se| 2025?).
@@ -31,7 +31,7 @@ provide a few hours of fun and entertainment. We enjoyed creating
 it - we hope players will enjoy playing it as well.
 
 
-The authors do not receive any profit from this game. It is a 
+The authors do not make any profit from this game. It is a 
 project born by and developed out of sheer passion for board games.
 
 

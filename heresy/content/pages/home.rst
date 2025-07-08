@@ -1,5 +1,5 @@
-Heresy: 1499 NT
-###############
+Heresy: Spain 1499 NT
+#####################
 :date: 2017-12-23 02:46
 :author: rjfrank
 :slug: home
@@ -22,7 +22,7 @@ Heresy: 1499 NT
 
 | Heresy is a fan expansion of the T.I.M.E Stories board game. In T.I.M.E Stories, you and your friends work together to solve mysteries, puzzles, unravel the plot of enemies who plan to exploit the space-time continuum.
 | In Heresy, you and your friends will be sent to 1499 Spain. Bob needs you to track down and neutralize a rogue T.I.M.E agent, who is using the Inquisition as to cover up his plans. Will you and your friend be able to find the traitor and stop him before it is too late?
-| Heresy is the first chapter in a trilogy (see `About <{filename}/pages/about.rst>`_ page), but it can be played as a stand-alone scenario.
+| Heresy is the first chapter in a larger story (see `About <{filename}/pages/about.rst>`_ page), but it can be played as a stand-alone scenario.
 
 
 |cs| |image3|\ |ce|

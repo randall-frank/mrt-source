@@ -14,7 +14,7 @@ THEME = 'nest'
 SITESUBTITLE = u'Heresy'
 
 # Add items to top menu before pages
-MENUITEMS = [('Heresy: 1499NT', '/'),
+MENUITEMS = [('Heresy: Spain 1499NT', '/'),
              ('Tools','/pages/the-tools.html'),
              ('Questions','/pages/questions-and-help.html'),
              ('About','/pages/about.html')]
