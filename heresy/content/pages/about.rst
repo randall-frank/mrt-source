@@ -1,41 +1,69 @@
 About
 #####
-:date: 2017-12-23 02:46
+:date: 2025-08-28 02:46
 :author: rjfrank
 :slug: about
 :status: published
 :illustration: box_graveyard.jpg
 
-.. |ss| raw:: html
+.. |cs| raw:: html
 
-    <strike>
+    <center>
 
-.. |se| raw:: html
+.. |ce| raw:: html
 
-    </strike>
+    </center>
 
-Hersey is the first chapter in a fan-based expansion of 
-T.I.M.E Stories. This first chapter has been made available to the 
-public in December 2017. The second chapter will become available to 
-the public as soon as it is ready (|ss| 2018\ |se| 2025?).
+**The Road That Led Us Here**
+*****************************
 
-**Breaking news**: Heresy 2 is well along in development.  However, 
-it will not be a T.I.M.E Stories scenario.  Rather, it will be an 
-web-based interactive story.  The game is already in playable 
-format, we hope to be able to release it in 2025.
+Originally, Heresy was planned as three T.I.M.E Stories fan
+expansions. The `first chapter <{filename}/pages/heresy.rst>`_ was 
+released as such in 2017. A bit later, the complete source code
+to the game as well as the tools we used to generate the cards
+were made available on GitHub.
+
+Work began on the next chapter around the time the sources were
+released.  The plan was to consolidate the second and third chapters
+into the next T.I.M.E Stories expansion deck: Heresy II.  The story, 
+location layout and basic interaction write-ups were completed in 2018.  
+At that point, things stalled and developers moved physically, making 
+collaboration on a board game difficult.  
+
+Enter 2025 and we recognized that we had a basic story and write up,
+but needed to find a way to get it out to folks.  It was suggested 
+that `Heresy II <{filename}/pages/heresy2.rst>`_ be converted into 
+an online work of interactive fiction with a bit of a thematic
+change.  This solved a number of logistical issues and a working 
+Heresy II core was running within 6 months. 
+
+Heresy II is still set in the T.I.M.E Stories universe and is a 
+natural follow-on to the original card-based expansion. However,
+with the Heresy II installment, there are no further plans for this story line.
+To be honest, the ending(s) of Heresy II would make it a bit difficult
+to continue the story line, so we will end it here.
+
+The complete Hersey story and has been created under a Creative 
+Commons license. We had fun writing the various stories and we
+certainly hope you have fun playing them and sharing them with
+friends.
+
+============ ============ ============
+  |imageA|    |imageM|      |imageR|
+============ ============ ============
 
 
-Hersey has been created under Creative Common license. Everyone is 
-welcome to download it, share it, play it. It has been created to 
-provide a few hours of fun and entertainment. We enjoyed creating 
-it - we hope players will enjoy playing it as well.
+Thanks!
+
+Andrew, Marina and Randy.
 
 
-The authors do not make any profit from this game. It is a 
-project born by and developed out of sheer passion for board games.
-
-
-* Authors: Marina Galvagni and Randy Frank
-* Artwork by: Rizky Nugraha, Philippe Semeria, David Ring and J.H. Vanderpoel
-* Carlito typeface: tyPoland, tukasz Dziedzic
-* Textures: www.myfreetextures.com
+.. |imageA| image:: {static}/images/andrew.png
+   :align: middle
+   :width: 90%
+.. |imageR| image:: {static}/images/randy.png
+   :align: middle
+   :width: 90%
+.. |imageM| image:: {static}/images/marina.png
+   :align: middle
+   :width: 90%   

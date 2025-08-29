@@ -1,5 +1,5 @@
-Heresy Tools
-############
+Heresy Card Generation Tools
+############################
 :date: 2017-12-30 21:33
 :author: rjfrank
 :slug: the-tools
@@ -9,10 +9,11 @@ Heresy Tools
 A little history...
 *******************
 
-Heresy began life as a google doc.  In fact, the entire deck was originally written,
-without any imagery, in google docs.  At some point we needed to move to a graphics
-toolset as one can only go so far without card graphics. After some consideration
-of potential tools we decided to write a deck "compositing" tool. Think LaTeX for
+Heresy began life as a google doc.
+In fact, the entire deck was originally written, without any imagery, in 
+google docs. At some point we needed to move to a graphics toolset as one 
+can only go so far without card graphics. After some consideration of potential 
+tools we decided to write a deck "compositing" tool. Think LaTeX for
 T.I.M.E Stories decks.  The result is a command line Python application that 
 "builds"  T.I.M.E Stories card images from a textual (XML) representation of a 
 deck. A major advantage of this approach is that we can "rebuild" the cards for 
@@ -21,11 +22,11 @@ a deck from their source text and image assets at any time.
 What can it do?
 ***************
 
-The Heresy, Python-based toolset is capable of laying out and rendering cards in 
-various forms.  It is capable of generating individual PNG files for the top and
+The Heresy, Python-based toolset is capable of laying out and rendering cards in
+various forms. It is capable of generating individual PNG files for the top and
 bottom of each card in the deck as well as Letter and A4 format PDF files of the
 whole deck and the composite PNG file 'deck' images used by Tabletop Simulator
-from the same XML source.  The tool has the ability to generate cards padded out
+from the same XML source. The tool has the ability to generate cards padded out
 with the bleeding region needed for printing services like makeplayingcards.com.
 
 How does it work?
@@ -79,12 +80,10 @@ the tools can be installed in your own Python interpreter via: 
 
     pip install heresycardbuilder
 
-|
 
-| `PyPi link <https://pypi.org/project/heresycardbuilder/>`__.  The Heresy XML deck 
-| source was developed on github, and is also publicly available 
-| at `heresy-assets <https://github.com/randall-frank/heresy-assets>`__.
+`PyPi link <https://pypi.org/project/heresycardbuilder/>`__.  The Heresy XML deck 
+source was developed on github, and is also publicly available 
+at `heresy-assets <https://github.com/randall-frank/heresy-assets>`__.
 
-|
 
 * Have fun!  The Heresy Team

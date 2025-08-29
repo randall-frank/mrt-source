@@ -14,7 +14,8 @@ THEME = 'nest'
 SITESUBTITLE = u'Heresy'
 
 # Add items to top menu before pages
-MENUITEMS = [('Heresy: Spain 1499NT', '/'),
+MENUITEMS = [('Heresy I', '/pages/heresy.html'),
+             ('Heresy II', '/pages/heresy2.html'),
              ('Tools','/pages/the-tools.html'),
              ('Questions','/pages/questions-and-help.html'),
              ('About','/pages/about.html')]
@@ -33,7 +34,7 @@ NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
 NEST_LINKS_COLUMN_TITLE = u'Links'
 year = str(datetime.datetime.now().year)
-NEST_COPYRIGHT = u'<br>Copyright &copy; ' + year + ' Marina Galvagni and Randy Frank'
+NEST_COPYRIGHT = u'<br>Copyright &copy; ' + year + ' Andrew Florance, Marina Galvagni and Randy Frank'
 # Footer optional
 NEST_FOOTER_HTML = ''
 # index.html
@@ -108,6 +109,8 @@ AUTHOR_FEED_RSS = None
 # Blogroll
 LINKS = (
     ("Heresy on Github", "https://github.com/randall-frank/heresy-assets"),
+    ("Heresy II on Github", "https://github.com/randall-frank/heresy2-assets"),
+    ("Heresy II on itch.io", "https://myleftgoat.itch.io/heresy2"),
     ("Heresy on Steam", "http://steamcommunity.com/sharedfiles/filedetails/?id=1240227894"),
     ("Heresy Tools on Github", "https://github.com/randall-frank/heresy-card-builder"),
 )
