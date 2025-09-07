@@ -49,13 +49,13 @@ certainly hope you have fun playing them and sharing them with
 friends.
 
 ============ ============ ============
-  |imageA|    |imageM|      |imageR|
+  |imageR|    |imageM|      |imageA|
 ============ ============ ============
 
 
 Thanks!
 
-Andrew, Marina and Randy.
+Randy, Marina and Andrew.
 
 
 .. |imageA| image:: {static}/images/andrew.png

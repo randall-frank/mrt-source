@@ -34,7 +34,7 @@ NEST_SITEMAP_RSS_LINK = u'RSS Feed'
 NEST_SOCIAL_COLUMN_TITLE = u'Social'
 NEST_LINKS_COLUMN_TITLE = u'Links'
 year = str(datetime.datetime.now().year)
-NEST_COPYRIGHT = u'<br>Copyright &copy; ' + year + ' Andrew Florance, Marina Galvagni and Randy Frank'
+NEST_COPYRIGHT = u'<br>Copyright &copy; ' + year + ' Randy Frank, Marina Galvagni and Andrew Florance'
 # Footer optional
 NEST_FOOTER_HTML = ''
 # index.html
