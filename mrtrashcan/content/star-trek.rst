@@ -301,7 +301,7 @@ Scene IV
 
 (DINA and SCOT are continuing their tour of the ship.)
 
-SCOTTY:Aye, she's been through more stormy seas than any            other.
+**SCOT**:Aye, she's been through more stormy seas than any            other.
 
 **DINA**:Seas?
 
