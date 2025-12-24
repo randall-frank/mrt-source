@@ -128,7 +128,7 @@ Scene II
 
 **MCCOY**:Jim, that's impossible.  We had been receiving signals       from the outpost saying that the planet was                   inhabitable.
 
-**KIRK**:Wait, the commander spoke of a great danger, Bones, is       it possible that the outpost was destoyed right after         the transmission of the distress call?
+**KIRK**:Wait, the commander spoke of a great danger, Bones, is       it possible that the outpost was destroyed right after         the transmission of the distress call?
 
 **MCCOY**:Jim, I'm a doctor, not a plot analyst.
 
@@ -483,7 +483,7 @@ Scene VI
 
 **KIRK**:Sulu, take over, Bones, come with me to engineering.
 
-(Scene switches to engineering.  Dina kills two DSG's.)
+(Scene switches to engineering.  Dina kills two DSG's. DSG-Disposable Security Guards.)
 
 **DINA**:I told you don't try any funny stuff.  I want off this       death trap.
 
@@ -505,7 +505,7 @@ Scene VI
 
 **MCCOY**:What about the captain?
 
-**DINA**:You silly sods will do anything for this guy, I'm            keeping him as ramsom until I reach Starbase seven.
+**DINA**:You silly sods will do anything for this guy, I'm            keeping him as ransom until I reach Starbase seven.
 
 **SCOT**:You can't do that...
 
