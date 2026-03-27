@@ -37,4 +37,4 @@ For both::
 
 ----
 
-Copyright (C) 2017-2025 Randall Frank
+Copyright (C) 2017-2026 Randall Frank

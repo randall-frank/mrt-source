@@ -69,7 +69,7 @@ hearing such references in the podcast, think of single character images.
 .. raw:: html
 
     <audio controls="controls">
-        <source src="{filename}/images/heresy2_ai_podcast.m4a" type="audio/mpeg">
+        <source src="{static}/images/heresy2_ai_podcast.m4a" type="audio/mpeg">
         Your browser does not support the <code>audio</code> element.
     </audio>
 

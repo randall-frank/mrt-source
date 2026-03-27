@@ -12,5 +12,6 @@
         "SITENAME",
         "SITESUBTITLE",
         "SITEURL"
-    ]
+    ],
+    "iis.configDir": ""
 }

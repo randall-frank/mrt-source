@@ -87,7 +87,7 @@ if __name__ == "__main__":
     cmd_parsers = parser.add_subparsers(help="Command", dest="cmd")
     cmd_parsers.required = True
     
-    build_parser = cmd_parsers.add_parser("build", help="Regenerate the story .json file in the build directory")
+    build_parser = cmd_parsers.add_parser("build", help="Regenerate Pelican website from source")
 
     clean_parser = cmd_parsers.add_parser("clean", help="Remove all build directory contents")
 
