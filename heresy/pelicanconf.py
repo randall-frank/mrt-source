@@ -13,6 +13,24 @@ DEFAULT_LANG = 'en'
 THEME = 'nest'
 SITESUBTITLE = u'Heresy'
 
+PLUGINS = [
+    'sitemap',
+]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
+
 # Add items to top menu before pages
 MENUITEMS = [('Heresy I', '/pages/heresy.html'),
              ('Heresy II', '/pages/heresy2.html'),
@@ -119,10 +137,11 @@ LINKS = (
 SOCIAL = (
 )
 
-STATIC_PATHS = ["images", "extra/favicon.ico", "extra/utilities.js"]
+STATIC_PATHS = ["images", "extra", "extra/favicon.ico", "extra/utilities.js"]
 EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {"path": "favicon.ico"},
     "extra/utilities.js": {"path": "utilities.js"},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 DEFAULT_PAGINATION = False

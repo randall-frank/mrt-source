@@ -15,6 +15,24 @@ DEFAULT_LANG = 'en'
 THEME = 'nest'
 SITESUBTITLE = u'Where the truth goes on vacation...'
 
+PLUGINS = [
+    'sitemap',
+]
+
+SITEMAP = {
+    "format": "xml",
+    "priorities": {
+        "articles": 0.5,
+        "indexes": 0.5,
+        "pages": 0.5
+    },
+    "changefreqs": {
+        "articles": "monthly",
+        "indexes": "daily",
+        "pages": "monthly"
+    }
+}
+
 NEST_CSS_MINIFY = False
 
 # Add items to top menu before pages
@@ -116,10 +134,11 @@ LINKS = (
 SOCIAL = (
 )
 
-STATIC_PATHS = ["images", "extra/favicon.ico", "extra/utilities.js"]
+STATIC_PATHS = ["images", "extra", "extra/favicon.ico", "extra/utilities.js"]
 EXTRA_PATH_METADATA = {
     "extra/favicon.ico": {"path": "favicon.ico"},
     "extra/utilities.js": {"path": "utilities.js"},
+    'extra/robots.txt': {'path': 'robots.txt'},
 }
 
 DEFAULT_PAGINATION = 10

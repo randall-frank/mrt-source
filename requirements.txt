@@ -2,3 +2,4 @@ pelican[markdown]
 gitpython
 typogrify
 doc8
+pelican-sitemap

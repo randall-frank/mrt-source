@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://heresy.mrtrashcan.com/sitemap.xml
