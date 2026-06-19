@@ -64,7 +64,7 @@ Michael Forest, a drop technician followed Billings into his stateroom.
 
 "Arden, you okay?"
 
-Billings was relieved to find that somebody actually cared.  He cleared his throat.  He knew his voice would be cracked and hoarse but he really didnt care anymore.
+Billings was relieved to find that somebody actually cared.  He cleared his throat.  He knew his voice would be cracked and hoarse but he really didn't care anymore.
 
 "Yeah...yeah...I'm fine.  Thanks."
 
@@ -170,7 +170,7 @@ Billings started counting with the computer.
 A loud roar shook the Overlord dropship.
 
 
-One by one, nine aerospace fighters left the dropship with firey tails of thrust that distorted the background of stars with ripples of heat.  They accelerated quickly into orbit, then fell evenly into formation.
+One by one, nine aerospace fighters left the dropship with fiery tails of thrust that distorted the background of stars with ripples of heat.  They accelerated quickly into orbit, then fell evenly into formation.
 
 "Squadron leader to command central, what is our orbit vector, over..."
 

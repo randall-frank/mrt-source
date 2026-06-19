@@ -12,7 +12,7 @@ The kids all nod and give signs of moderate acceptance to the virus in the cohes
 
 "So you're David's friend." he says, as he steps forward.  The rest of the boys have begun to separate into tightly-knit cliques for purposes unknown to any, discussions for no one else to hear.  Todd couldn't make it to the game today.  I hope we don't get stuck with Harold on our team again.  David's friend is supposed to be pretty smart.  The speaking begins, and the kids begin to filter into the vacant lot, some of them trying on a glove, some already slamming a worn baseball repeatedly into the scratchy surface of the brown mitt.
 
-The boy's name is Peter, and we shake hands.  It is the first time I have ever shook hands with anyone within two years of my age, and actually meant the warm greeting it implied.  Peter is a few inches shorter than me, but is not graphically aware of it.  Or at least he does not let on that he is aware of it.  His precocious head is topped with an unkept nest of firey auburn fuzz, held in place by a grease-stained Mets cap that is almost as blatantly red as his hair.  His smile is comforting; his smile knows all.
+The boy's name is Peter, and we shake hands.  It is the first time I have ever shook hands with anyone within two years of my age, and actually meant the warm greeting it implied.  Peter is a few inches shorter than me, but is not graphically aware of it.  Or at least he does not let on that he is aware of it.  His precocious head is topped with an unkept nest of fiery auburn fuzz, held in place by a grease-stained Mets cap that is almost as blatantly red as his hair.  His smile is comforting; his smile knows all.
 
 He dusts off his hands onto the thighs of his blue jeans, sending coughs of dirt into the air.
 
@@ -52,7 +52,7 @@ I gape.  My brow creases.  Then I hold my composure.
 
 "Jeez, I dunno, all that lofty crap about being the future, the kids of tomorrow, all of those special projects, the lectures, the higher classes, all that crap, it's like I wouldn't feel like a kid anymore."
 
-I felt a dull ache at the top of my chest.  I have never heard a kid use the word 'kid' before.  I grunt, clearing my throat, and Peter unleashes his bat from the loop in his belt.  Lousiville slugger.  Hardcut cured.  Keep the signature to the sky.  He speaks again.
+I felt a dull ache at the top of my chest.  I have never heard a kid use the word 'kid' before.  I grunt, clearing my throat, and Peter unleashes his bat from the loop in his belt.  Louisville slugger.  Hardcut cured.  Keep the signature to the sky.  He speaks again.
 
 "It's like my mom and my dad, they want me to be something special.  Something different.  Why should I be different?  So I can listen to some jerk-off tell me how I'm the 'child of tomorrow'?  I'm not anything special, I don't wanna be.  I'm not the child of tomorrow, I'm just a fucking kid."
 
@@ -62,9 +62,9 @@ I take six slow backward steps.
 
 Just a fucking kid.
 
-I stare at Peter in a new kind of wonder and amazement. He has a grip on reality almost as firm as the one he has on his Lousiville slugger.  It's oblivity sticks in my throat: David isn't Mickey Mantle.  Peter isn't John F. Kennedy.
+I stare at Peter in a new kind of wonder and amazement. He has a grip on reality almost as firm as the one he has on his Louisville slugger.  It's oblivity sticks in my throat: David isn't Mickey Mantle.  Peter isn't John F. Kennedy.
 
-I'm not Albert Einstien.
+I'm not Albert Einstein.
 
 I'm just a fucking kid.
 
